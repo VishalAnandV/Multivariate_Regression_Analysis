@@ -2,7 +2,7 @@
 
 Multiple linear regression is a technique that uses several independent variables in order to predict the outcome of a dependent variable.
 
-## Project aims
+### Project aims
 
 - Analyze the datasets and select the best predictors.
 - Implement the gradient descent algorithm.
