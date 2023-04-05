@@ -1,4 +1,4 @@
-# Multiple Linear Regression, Gradient Descent /w Python
+## Multiple Linear Regression, Gradient Descent /w Python
 
 Multiple linear regression is a technique that uses several independent variables in order to predict the outcome of a dependent variable.
 
