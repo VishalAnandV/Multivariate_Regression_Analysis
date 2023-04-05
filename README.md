@@ -6,5 +6,5 @@ Multiple linear regression is a technique that uses several independent variable
 
 - Analyze the datasets and select the best predictors.
 - Implement the gradient descent algorithm.
-- Test our implementation for a varying number of iteration steps, learning rate, train/test ratio to estimate their effect on the model.
-- Evaluation for each scenario of the goodness of fit and having a better understanding of the behaviors of multiple linear regression.
+- Test the implementation for a varying number of iteration steps, learning rate, train/test ratio to estimate their effect on the model.
+- Evaluating the goodness of fit for each case and gaining a deeper grasp of the characteristics of multiple linear regression.
